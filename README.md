@@ -6,7 +6,7 @@ categories:
   - hashicorp
 ---
 
-# Project: vault-docker-pki
+<!-- # Project: vault-docker-pki -->
 
 Create your own certificate authority (CA) using Vault.
 In this project, the Vault server runs in a docker container.
